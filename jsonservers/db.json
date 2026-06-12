@@ -1,0 +1,27 @@
+{
+  "students": [
+    {
+      "id": "3vDNkTn27Zk",
+      "fname": "Raj",
+      "email": "raj123@gmail.com"
+    },
+    {
+      "fname": "Rushil ",
+      "email": "rushil@gmail.com",
+      "id": "FfMT-55ql70"
+    },
+    {
+      "fname": "Shreepal",
+      "email": "Shreepal@gmail.com",
+      "id": "_-pyVuLU4Xg"
+    }
+  ],
+  "employees": [
+    {
+      "id": "101",
+      "emp_name": "rajveer",
+      "position": "software develoer"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
