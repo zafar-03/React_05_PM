@@ -1,0 +1,84 @@
+{
+    "blogs": [
+        {
+            "id": 1002,
+            "title": "React",
+            "heading": "Understanding React Components and Props",
+            "desc": "Learn how React components and props work together to create reusable and dynamic user interfaces.",
+            "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+            "date": "May 26, 2026"
+        },
+        {
+            "id": 1003,
+            "title": "HTML",
+            "heading": "Essential HTML Tags Every Developer Should Know",
+            "desc": "Explore the most commonly used HTML tags and understand their role in building web pages.",
+            "image": "https://images.unsplash.com/photo-1621839673705-6617adf9e890",
+            "date": "May 28, 2026"
+        },
+        {
+            "id": 1004,
+            "title": "CSS",
+            "heading": "Modern CSS Techniques for Responsive Design",
+            "desc": "Discover Flexbox, Grid, and media queries to create responsive websites with ease.",
+            "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2",
+            "date": "June 1, 2026"
+        },
+        {
+            "id": 1005,
+            "title": "NodeJS",
+            "heading": "Getting Started with Node.js Backend Development",
+            "desc": "Learn how Node.js enables developers to build scalable and fast server-side applications.",
+            "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+            "date": "June 3, 2026"
+        },
+        {
+            "id": 1006,
+            "title": "MongoDB",
+            "heading": "Why MongoDB is Popular Among Developers",
+            "desc": "Understand document-based databases and how MongoDB simplifies data management.",
+            "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d",
+            "date": "June 5, 2026"
+        },
+        {
+            "id": 1007,
+            "title": "Bootstrap",
+            "heading": "Build Responsive Websites Faster with Bootstrap",
+            "desc": "Use Bootstrap's ready-made components and grid system to speed up development.",
+            "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+            "date": "June 7, 2026"
+        },
+        {
+            "id": 1008,
+            "title": "Tailwind CSS",
+            "heading": "Utility-First CSS with Tailwind Explained",
+            "desc": "Learn how Tailwind CSS helps developers create custom designs without writing custom CSS.",
+            "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+            "date": "June 10, 2026"
+        },
+        {
+            "id": 1009,
+            "title": "Python",
+            "heading": "Top Python Libraries for Beginners",
+            "desc": "Explore popular Python libraries like NumPy, Pandas, and Matplotlib for data handling.",
+            "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935",
+            "date": "June 12, 2026"
+        },
+        {
+            "id": 1010,
+            "title": "Git",
+            "heading": "Version Control Basics Every Developer Needs",
+            "desc": "Understand repositories, commits, branches, and collaboration using Git.",
+            "image": "https://images.unsplash.com/photo-1556075798-4825dfaaf498",
+            "date": "June 15, 2026"
+        },
+        {
+            "id": 1011,
+            "title": "API",
+            "heading": "Introduction to REST APIs and JSON",
+            "desc": "Learn how APIs work and how JSON is used to exchange data between applications.",
+            "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+            "date": "June 17, 2026"
+        }
+    ]
+}
